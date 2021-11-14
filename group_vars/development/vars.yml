@@ -1,6 +1,6 @@
 ---
 
-git_repo: https://github.com/YPCrumble/django-default-project
+git_repo: https://github.com/ardeidae/django-default-project
 
 project_name: django_default_project
 application_name: django_default_project
